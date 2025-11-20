@@ -1,0 +1,75 @@
+{
+  "checklist_kitchen": {
+    "ru": "Анкета помощи",
+    "en": "Help Form",
+    "vi": "Phiếu hỗ trợ"
+  },
+  "home": {
+    "ru": "Главная",
+    "en": "Home",
+    "vi": "Trang chủ"
+  },
+  "back": {
+    "ru": "Назад",
+    "en": "Back",
+    "vi": "Quay lại"
+  },
+  "date": {
+    "ru": "Дата",
+    "en": "Date",
+    "vi": "Ngày"
+  },
+  "order": {
+    "ru": "Заказ",
+    "en": "Order",
+    "vi": "Đặt hàng"
+  },
+  "user_name": {
+    "ru": "Имя",
+    "en": "Name",
+    "vi": "Họ tên"
+  },
+  "user_name_placeholder": {
+    "ru": "Введите имя",
+    "en": "Enter name",
+    "vi": "Nhập tên"
+  },
+  "user_contact": {
+    "ru": "Контакт для связи",
+    "en": "Contact",
+    "vi": "Liên hệ"
+  },
+  "user_contact_placeholder": {
+    "ru": "Телефон или Telegram",
+    "en": "Phone or Telegram",
+    "vi": "Số điện thoại hoặc Telegram"
+  },
+  "user_location": {
+    "ru": "Местоположение",
+    "en": "Location",
+    "vi": "Vị trí"
+  },
+  "cheap_market": {
+    "ru": "Дешевый рынок",
+    "en": "Cheap Market",
+    "vi": "Chợ rẻ"
+  },
+  "eggplant": {
+    "ru": "Баклажан",
+    "en": "Eggplant",
+    "vi": "Cà tím"
+  },
+  "order+": {
+    "ru": "Заказать",
+    "en": "Order",
+    "vi": "Đặt"
+  },
+  "comment": {
+    "ru": "Комментарий",
+    "en": "Comment",
+    "vi": "Bình luận"
+  },
+  "comment_placeholder": {
+    "ru": "Введите комментарий",
+    "en": "Enter comment",
+    "vi": "Nhập bìn
