@@ -17,7 +17,7 @@
   <script src="../../../lang.js" defer></script>
   <script src="script.js" defer></script>
 </head>
-<body data-profile="order">
+<body data-profile="help_form">
 
 <header class="page-header">
   <div class="lang-switch">
@@ -39,7 +39,7 @@
     <span id="current-date"></span>
   </div>
 
-  <h1 data-i18n="order"></h1>
+  <h1 data-i18n="checklist_kitchen"></h1>
 
   <!-- Имя -->
   <div class="dish">
@@ -53,31 +53,8 @@
     <input type="text" id="userContact" name="userContact" placeholder="" data-i18n-placeholder="user_contact_placeholder">
   </div>
 
-  <!-- Карта -->
+  <!-- Местоположение -->
   <div class="dish">
     <label data-i18n="user_location"></label>
     <div id="map" style="height: 300px; border-radius: 10px; margin: 10px 0;"></div>
-    <p><span id="coords">—</span></p>
-  </div>
-
-  <!-- Секция продуктов -->
-  <div class="menu-section">
-    <div class="section-title" data-i18n="cheap_market"></div>
-
-    <div class="dish">
-      <label class="check-label" data-i18n="eggplant"></label>
-      <select name="Eggplant" class="qty">
-        <option value="" selected>-</option>
-        <option value="order+" data-i18n="order+"></option>
-      </select>
-    </div>
-
-    <div class="section-title" data-i18n="comment"></div>
-    <textarea id="comment_supliers" class="comment" rows="3" data-i18n="comment_placeholder" placeholder=""></textarea>
-  </div>
-
-  <button id="sendToTelegram" data-i18n="send"></button>
-
-</main>
-</body>
-</html>
+    <p><span id="coords">—</span></p
